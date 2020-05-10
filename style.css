@@ -5,7 +5,11 @@
 }
 
 body {
+<<<<<<< HEAD
   background-image: url(./img/new-year.jpeg);
+=======
+  background-image: url(./new-year.jpeg);
+>>>>>>> 2bcd0c5668422f846cf145f3f1921acd6b93739e
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
